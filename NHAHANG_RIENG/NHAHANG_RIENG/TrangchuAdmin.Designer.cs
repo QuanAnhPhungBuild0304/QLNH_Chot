@@ -28,248 +28,229 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.ctlLogout = new System.Windows.Forms.ToolStripMenuItem();
             this.lbstatus = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.ctlCaiDat = new System.Windows.Forms.ToolStripMenuItem();
-            this.thôngTinTàiKhoảnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.btDangXuat = new System.Windows.Forms.Button();
+            this.panel5 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
+            this.panel4 = new System.Windows.Forms.Panel();
             this.btqlmon = new System.Windows.Forms.Button();
             this.btqlban = new System.Windows.Forms.Button();
-            this.btuser = new System.Windows.Forms.Button();
             this.btDoanhthu = new System.Windows.Forms.Button();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.panel1.SuspendLayout();
-            this.menuStrip1.SuspendLayout();
             this.panel2.SuspendLayout();
+            this.panel3.SuspendLayout();
+            this.panel5.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // ctlLogout
-            // 
-            this.ctlLogout.BackColor = System.Drawing.Color.White;
-            this.ctlLogout.ForeColor = System.Drawing.Color.Red;
-            this.ctlLogout.Name = "ctlLogout";
-            this.ctlLogout.Size = new System.Drawing.Size(180, 22);
-            this.ctlLogout.Text = "Đăng Xuất";
-            this.ctlLogout.Click += new System.EventHandler(this.ctlLogout_Click);
             // 
             // lbstatus
             // 
             this.lbstatus.AutoSize = true;
-            this.lbstatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbstatus.Font = new System.Drawing.Font("Segoe UI", 10.2F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbstatus.ForeColor = System.Drawing.Color.Red;
-            this.lbstatus.Location = new System.Drawing.Point(87, 13);
+            this.lbstatus.Location = new System.Drawing.Point(82, 7);
             this.lbstatus.Name = "lbstatus";
-            this.lbstatus.Size = new System.Drawing.Size(0, 16);
+            this.lbstatus.Size = new System.Drawing.Size(0, 19);
             this.lbstatus.TabIndex = 42;
             this.lbstatus.Click += new System.EventHandler(this.lbstatus_Click);
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(3, 13);
+            this.label4.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(3, 7);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(78, 16);
+            this.label4.Size = new System.Drawing.Size(86, 19);
             this.label4.TabIndex = 36;
-            this.label4.Text = "Xin chào ad";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(185, 266);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(214, 25);
-            this.label6.TabIndex = 34;
-            this.label6.Text = "Quản Lý Tài Khoản";
+            this.label4.Text = "Xin chào ad:";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(223, 464);
+            this.label5.Font = new System.Drawing.Font("Segoe UI", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(355, 419);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(127, 25);
+            this.label5.Size = new System.Drawing.Size(108, 25);
             this.label5.TabIndex = 33;
             this.label5.Text = "Doanh Thu";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(505, 464);
+            this.label3.Font = new System.Drawing.Font("Segoe UI", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(594, 419);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(152, 25);
+            this.label3.Size = new System.Drawing.Size(174, 25);
             this.label3.TabIndex = 31;
-            this.label3.Text = "Quản Lý Món";
+            this.label3.Text = "Quản Lý Hệ Thống";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(477, 266);
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(73, 419);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(214, 25);
+            this.label2.Size = new System.Drawing.Size(174, 25);
             this.label2.TabIndex = 30;
-            this.label2.Text = "Tạo Bàn + Gọi món";
+            this.label2.Text = "Gọi món - Đặt bàn";
             // 
-            // panel1
+            // panel2
             // 
-            this.panel1.BackColor = System.Drawing.Color.White;
-            this.panel1.Controls.Add(this.menuStrip1);
-            this.panel1.Location = new System.Drawing.Point(31, 33);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(66, 38);
-            this.panel1.TabIndex = 29;
+            this.panel2.AutoSize = true;
+            this.panel2.Controls.Add(this.label4);
+            this.panel2.Controls.Add(this.lbstatus);
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel2.Location = new System.Drawing.Point(194, 0);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(92, 37);
+            this.panel2.TabIndex = 46;
             // 
-            // menuStrip1
+            // panel3
             // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.ctlCaiDat});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(66, 24);
-            this.menuStrip1.TabIndex = 0;
-            this.menuStrip1.Text = "menuStrip1";
+            this.panel3.BackColor = System.Drawing.SystemColors.Control;
+            this.panel3.Controls.Add(this.btDangXuat);
+            this.panel3.Controls.Add(this.panel5);
+            this.panel3.Controls.Add(this.label1);
+            this.panel3.Location = new System.Drawing.Point(155, 62);
+            this.panel3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(706, 127);
+            this.panel3.TabIndex = 48;
             // 
-            // ctlCaiDat
+            // btDangXuat
             // 
-            this.ctlCaiDat.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.ctlLogout,
-            this.thôngTinTàiKhoảnToolStripMenuItem});
-            this.ctlCaiDat.Name = "ctlCaiDat";
-            this.ctlCaiDat.Size = new System.Drawing.Size(57, 20);
-            this.ctlCaiDat.Text = "Cài Đặt";
+            this.btDangXuat.BackColor = System.Drawing.SystemColors.Control;
+            this.btDangXuat.BackgroundImage = global::NHAHANG_RIENG.Properties.Resources.settings;
+            this.btDangXuat.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btDangXuat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btDangXuat.Location = new System.Drawing.Point(634, 43);
+            this.btDangXuat.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btDangXuat.Name = "btDangXuat";
+            this.btDangXuat.Size = new System.Drawing.Size(62, 46);
+            this.btDangXuat.TabIndex = 49;
+            this.btDangXuat.UseVisualStyleBackColor = false;
+            this.btDangXuat.Click += new System.EventHandler(this.btDangXuat_Click);
             // 
-            // thôngTinTàiKhoảnToolStripMenuItem
+            // panel5
             // 
-            this.thôngTinTàiKhoảnToolStripMenuItem.ForeColor = System.Drawing.Color.Blue;
-            this.thôngTinTàiKhoảnToolStripMenuItem.Name = "thôngTinTàiKhoảnToolStripMenuItem";
-            this.thôngTinTàiKhoảnToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.thôngTinTàiKhoảnToolStripMenuItem.Text = "Thông tin tài khoản";
-            this.thôngTinTàiKhoảnToolStripMenuItem.Click += new System.EventHandler(this.thôngTinTàiKhoảnToolStripMenuItem_Click);
+            this.panel5.BackColor = System.Drawing.SystemColors.Control;
+            this.panel5.Controls.Add(this.panel2);
+            this.panel5.Location = new System.Drawing.Point(410, 0);
+            this.panel5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(286, 37);
+            this.panel5.TabIndex = 48;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Vivaldi", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Red;
-            this.label1.Location = new System.Drawing.Point(246, 9);
+            this.label1.BackColor = System.Drawing.SystemColors.Control;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(74, 43);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(393, 38);
-            this.label1.TabIndex = 27;
-            this.label1.Text = "Nhà Hàng QAP - QAP";
+            this.label1.Size = new System.Drawing.Size(551, 73);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "GoGo Restaurant";
+            // 
+            // panel4
+            // 
+            this.panel4.BackColor = System.Drawing.SystemColors.Control;
+            this.panel4.BackgroundImage = global::NHAHANG_RIENG.Properties.Resources.food;
+            this.panel4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.panel4.Location = new System.Drawing.Point(-1, 62);
+            this.panel4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(159, 127);
+            this.panel4.TabIndex = 47;
             // 
             // btqlmon
             // 
-            this.btqlmon.BackgroundImage = global::NHAHANG_RIENG.Properties.Resources.ahihi;
+            this.btqlmon.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btqlmon.BackgroundImage = global::NHAHANG_RIENG.Properties.Resources.customer_service;
             this.btqlmon.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btqlmon.Location = new System.Drawing.Point(482, 303);
+            this.btqlmon.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btqlmon.Location = new System.Drawing.Point(592, 241);
             this.btqlmon.Name = "btqlmon";
-            this.btqlmon.Size = new System.Drawing.Size(196, 158);
-            this.btqlmon.TabIndex = 3;
-            this.btqlmon.UseVisualStyleBackColor = true;
+            this.btqlmon.Size = new System.Drawing.Size(176, 171);
+            this.btqlmon.TabIndex = 45;
+            this.btqlmon.UseVisualStyleBackColor = false;
             this.btqlmon.Click += new System.EventHandler(this.btqlmon_Click);
             // 
             // btqlban
             // 
-            this.btqlban.BackgroundImage = global::NHAHANG_RIENG.Properties.Resources.ahihi31;
+            this.btqlban.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btqlban.BackgroundImage = global::NHAHANG_RIENG.Properties.Resources.choices;
             this.btqlban.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btqlban.Location = new System.Drawing.Point(482, 109);
+            this.btqlban.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btqlban.Location = new System.Drawing.Point(59, 241);
             this.btqlban.Name = "btqlban";
-            this.btqlban.Size = new System.Drawing.Size(196, 142);
-            this.btqlban.TabIndex = 0;
-            this.btqlban.UseVisualStyleBackColor = true;
+            this.btqlban.Size = new System.Drawing.Size(178, 171);
+            this.btqlban.TabIndex = 44;
+            this.btqlban.UseVisualStyleBackColor = false;
             this.btqlban.Click += new System.EventHandler(this.btqlban_Click);
-            // 
-            // btuser
-            // 
-            this.btuser.BackgroundImage = global::NHAHANG_RIENG.Properties.Resources.user;
-            this.btuser.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btuser.Location = new System.Drawing.Point(190, 109);
-            this.btuser.Name = "btuser";
-            this.btuser.Size = new System.Drawing.Size(196, 142);
-            this.btuser.TabIndex = 2;
-            this.btuser.UseVisualStyleBackColor = true;
-            this.btuser.Click += new System.EventHandler(this.btuser_Click);
             // 
             // btDoanhthu
             // 
-            this.btDoanhthu.BackgroundImage = global::NHAHANG_RIENG.Properties.Resources.ahihi5;
+            this.btDoanhthu.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btDoanhthu.BackgroundImage = global::NHAHANG_RIENG.Properties.Resources.presentation;
             this.btDoanhthu.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btDoanhthu.Location = new System.Drawing.Point(190, 303);
+            this.btDoanhthu.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btDoanhthu.Location = new System.Drawing.Point(326, 241);
             this.btDoanhthu.Name = "btDoanhthu";
-            this.btDoanhthu.Size = new System.Drawing.Size(196, 158);
-            this.btDoanhthu.TabIndex = 1;
-            this.btDoanhthu.UseVisualStyleBackColor = true;
+            this.btDoanhthu.Size = new System.Drawing.Size(178, 171);
+            this.btDoanhthu.TabIndex = 28;
+            this.btDoanhthu.UseVisualStyleBackColor = false;
             this.btDoanhthu.Click += new System.EventHandler(this.btDoanhthu_Click);
-            // 
-            // panel2
-            // 
-            this.panel2.Controls.Add(this.label4);
-            this.panel2.Controls.Add(this.lbstatus);
-            this.panel2.Location = new System.Drawing.Point(621, 50);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(238, 39);
-            this.panel2.TabIndex = 46;
             // 
             // TrangchuAdmin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(862, 498);
-            this.Controls.Add(this.panel2);
+            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.ClientSize = new System.Drawing.Size(860, 498);
+            this.Controls.Add(this.panel4);
+            this.Controls.Add(this.panel3);
             this.Controls.Add(this.btqlmon);
             this.Controls.Add(this.btqlban);
-            this.Controls.Add(this.btuser);
-            this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.panel1);
             this.Controls.Add(this.btDoanhthu);
-            this.Controls.Add(this.label1);
+            this.MaximizeBox = false;
             this.Name = "TrangchuAdmin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "trangchu1";
+            this.Text = "Trang chủ";
             this.Load += new System.EventHandler(this.TrangchuAdmin_Load);
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
+            this.panel5.ResumeLayout(false);
+            this.panel5.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.ToolStripMenuItem ctlLogout;
         private System.Windows.Forms.Button btqlmon;
         private System.Windows.Forms.Button btqlban;
-        private System.Windows.Forms.Button btuser;
         private System.Windows.Forms.Label lbstatus;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem ctlCaiDat;
         private System.Windows.Forms.Button btDoanhthu;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ToolStripMenuItem thôngTinTàiKhoảnToolStripMenuItem;
         private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Panel panel5;
+        private System.Windows.Forms.Button btDangXuat;
     }
 }

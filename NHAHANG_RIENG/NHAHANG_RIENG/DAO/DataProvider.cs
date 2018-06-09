@@ -9,8 +9,22 @@ namespace NHAHANG_RIENG.DAO
 {
     class DataProvider
     {
-        private string sqlstringconnect = @"Data Source=.\SQLEXPRESS;Initial Catalog=QUANLYNHAHANG;Integrated Security=True";
+        public string sqlstringconnect = @"Data Source=.\SQLEXPRESS;Initial Catalog=QUANLYNHAHANG;Integrated Security=True";
 
+        public void Conect()
+        {
+            SqlConnection con = new SqlConnection(sqlstringconnect);
+            try
+            {
+                con.Open();
+            }
+            catch (Exception)
+            {
+                
+                
+            }
+        }
+      
         private static DataProvider instance; // Đóng gói : Ctrl + R + E
         //
         public static DataProvider Instance
@@ -113,9 +127,6 @@ namespace NHAHANG_RIENG.DAO
                 return dt;
             }
         }
-
-
-        // do excutescalar trả vè mặc điịnh là kiểu int, nên ép nó về kiểu chuỗi. chưa tìm ra cách tốt hơn
         public object ExcuteScalarToDouble(string query, object[] parameter = null)
         {
             object dt = 0;

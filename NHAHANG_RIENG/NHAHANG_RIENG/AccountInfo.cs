@@ -14,7 +14,7 @@ using System.Windows.Forms;
 
 namespace NHAHANG_RIENG
 {
-    public partial class AccountInfo : Form
+    public partial class AccountInfo : MaterialSkin.Controls.MaterialForm
     {
         private Account loginAcc;
 
@@ -26,6 +26,7 @@ namespace NHAHANG_RIENG
             this.loginAcc = acc;
             ShowInfo(loginAcc);
         }
+
 
         void ShowInfo( Account acc)
         {
@@ -94,24 +95,14 @@ namespace NHAHANG_RIENG
 
         private void btQuayLai_Click(object sender, EventArgs e)
         {
-            if (loginAcc.Type == 0)
-            {
-                BanMon bm = new BanMon(loginAcc);
-                this.Hide();
-                bm.ShowDialog();
-            }
-            else
-            {
-                TrangchuAdmin tc = new TrangchuAdmin(loginAcc);
-                this.Hide();
-                tc.ShowDialog();
-            }
+            this.Hide();
         }
 
 
         private void btLuu_Click(object sender, EventArgs e)
         {
             UpdateAcc();
+            AccountInfo_Load(sender,e);
         }
 
         private void AccountInfo_Load(object sender, EventArgs e)
@@ -121,11 +112,14 @@ namespace NHAHANG_RIENG
 
         private void btChonAnh_Click(object sender, EventArgs e)
         {
-           
-            openFileAVT.ShowDialog();
-            string file = openFileAVT.FileName;
-            Image avt = Image.FromFile(file);
-            ptbAvt.Image = avt;
+            try
+            {
+                openFileAVT.ShowDialog();
+                string file = openFileAVT.FileName;
+                Image avt = Image.FromFile(file);
+                ptbAvt.Image = avt;
+            }
+            catch { }
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)

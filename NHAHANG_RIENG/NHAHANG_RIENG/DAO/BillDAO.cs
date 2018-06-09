@@ -47,7 +47,6 @@ namespace NHAHANG_RIENG.DAO
         {
             string query = "UPDATE dbo.BILL set DATECHECKOUT = GETDATE(), STATUS =1," + "GIAMGIA=" + giamgia + ", TONGTIEN_HOADON =" + tongtien_hoadon +", TONGTIEN_THANHTOAN ="+ tongtien_thanhtoan + " where id ="+id;
             DataProvider.Instance.ExcuteQuery(query);
-
         }
 
         // HÀM THỐNG KÊ DS HÓA ĐƠN THEO NGÀY
@@ -55,35 +54,6 @@ namespace NHAHANG_RIENG.DAO
         {
             return DataProvider.Instance.ExcuteQuery("EXEC USP_GETLISTBILLBYDATE @DATECHECKIN , @DATECHECKOUT", new object[] {checkin, checkout });
         }
-
-        // TÍNH TỔNG THU THEO HÓA ĐƠN (CHƯA TÍNH GIẢM GIÁ, ...)
-        public string TotalPrices_HD(DateTime checkin, DateTime checkout)
-        {
-            return (string) DataProvider.Instance.ExcuteScalarToDouble("EXEC USP_TotalPrice_HD @DATECHECKIN , @DATECHECKOUT", new object[] {checkin, checkout });          
-        }
-
-
-        // TÍNH TỔNG THU THEO THỰC TẾ (ĐÃ TÍNH GIẢM GIÁ, ...)
-        public string TotalPrices_TT(DateTime checkin, DateTime checkout)
-        {
-            return (string)DataProvider.Instance.ExcuteScalarToDouble("EXEC USP_TotalPrice_TT @DATECHECKIN , @DATECHECKOUT", new object[] { checkin, checkout });
-        }
-
-
-        // Hàm xác dịnh số trang cuẩ hóa đơn
-        public int GetNumberBillByDate(DateTime checkin, DateTime checkout)
-        {
-           
-            return (int)DataProvider.Instance.ExcuteScalar("EXEC USP_GETNUMBERBILL @DATECHECKIN , @DATECHECKOUT", new object[] { checkin, checkout });
-        }
-
-
-        // THỐNG KÊ HÓA ĐƠN CÓ PHÂN TRANG
-        public DataTable GetListBillByDate_inPage(DateTime checkin, DateTime checkout, int pageNumber)
-        {
-            return DataProvider.Instance.ExcuteQuery("EXEC USP_GETLISTBILLBYDATE_IN_PAGE @DATECHECKIN , @DATECHECKOUT , @PAGE", new object[] { checkin, checkout, pageNumber });
-        }
-
 
         public int GetMaxIDBill()
         {
@@ -98,6 +68,31 @@ namespace NHAHANG_RIENG.DAO
             }
         }
 
+        // THỐNG KE HÓA ĐƠN THEO NGÀY
+        public int GetNumberBillByDate(DateTime checkin, DateTime checkout)
+        {
+
+            return (int)DataProvider.Instance.ExcuteScalar("EXEC USP_GETNUMBERBILL @DATECHECKIN , @DATECHECKOUT", new object[] { checkin, checkout });
+        }
+
+
+        // TÍNH TỔNG THU THEO HD (CHƯA TÍNH GIẢM GIÁ, ...)
+        public string TotalPrices_HD(DateTime checkin, DateTime checkout)
+        {
+            return (string)DataProvider.Instance.ExcuteScalarToDouble("EXEC USP_TotalPrice_HD @DATECHECKIN , @DATECHECKOUT", new object[] { checkin, checkout });
+        }
+
+
+        // TÍNH TỔNG THU THEO THỰC TẾ (ĐÃ TÍNH GIẢM GIÁ, ...)
+        public string TotalPrices_TT(DateTime checkin, DateTime checkout)
+        {
+            return (string)DataProvider.Instance.ExcuteScalarToDouble("EXEC USP_TotalPrice_TT @DATECHECKIN , @DATECHECKOUT", new object[] { checkin, checkout });
+        }
+
+        public DataTable GetListBillByDate_inPage(DateTime checkin, DateTime checkout, int pageNumber)
+        {
+            return DataProvider.Instance.ExcuteQuery("EXEC USP_GETLISTBILLBYDATE_IN_PAGE @DATECHECKIN , @DATECHECKOUT , @PAGE", new object[] { checkin, checkout, pageNumber });
+        }
 
     }
 }
