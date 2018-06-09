@@ -21,7 +21,7 @@ namespace NHAHANG_RIENG.DTO
         {
             this.ID = (int)row["ID"];
             this.Name = row["NAME"].ToString();
-            this.LoaiMon = row["CATERY"].ToString();
+            this.LoaiMon =row["CATERY"].ToString();
             this.Gia = (float)Convert.ToDouble(row["GIA"].ToString());
         }
 

@@ -16,11 +16,12 @@ namespace NHAHANG_RIENG
         {
             InitializeComponent();
         }
-
-        private void HoaDon_Load(object sender, EventArgs e)
+       private void HoaDon_Load(object sender, EventArgs e)
         {
+            // TODO: This line of code loads data into the 'QUANLYNHAHANGDataSet.BILL' table. You can move, or remove it, as needed.
+            this.BILLTableAdapter.Fill(this.QUANLYNHAHANGDataSet.BILL);
 
-     
+            this.reportViewer1.RefreshReport();
         }
     }
 }

@@ -23,12 +23,11 @@ namespace NHAHANG_RIENG.DAO
         }
         private CateryDAO() { }
 
-        // Lấy ra ds catery ở trên combobox danh mục món ăn
         public List<Catery> GetListCatery()
         {
             List<Catery> list = new List<Catery>();
 
-            string query = "select ID, NAME from FOODCATERY";
+            string query = "select * from FOODCATERY";
 
             DataTable data = DataProvider.Instance.ExcuteQuery(query);
 
@@ -40,7 +39,21 @@ namespace NHAHANG_RIENG.DAO
 
             return list;
         }
-        public Catery GetCateryById(int id)
+        public Catery ABC(string abc)
+        {
+            Catery category = null;
+
+            string query = string.Format("select * from FOODCATERY where name like  N'{0}'", abc);
+            DataTable data = DataProvider.Instance.ExcuteQuery(query);
+
+            foreach (DataRow item in data.Rows)
+            {
+                category = new Catery(item);
+                return category;
+            }
+            return category;
+        }
+        public Catery GetCateryById(int  id)
         {
             Catery catery = null;
             string query = "select * from FoodCatery where ID =" + id;
@@ -54,6 +67,26 @@ namespace NHAHANG_RIENG.DAO
             }
 
             return catery;
+        }
+        public bool InsertCatery( string name)
+        {
+            string query = string.Format("Insert dbo.FOODCATERY (NAME) values (N'{0}')", name);
+            int result = DataProvider.Instance.ExcuteNonQuery(query);
+            return result > 0;
+        }
+        public bool EditCatery(int id, string name)
+        {
+            string query = string.Format("update dbo.FOODCATERY set NAME=N'{0}' WHERE ID={1}", name, id);
+            int result = DataProvider.Instance.ExcuteNonQuery(query);
+            return result > 0;
+
+        }
+        public bool DeleteCatery(int id)
+        {
+            BillInfoDAO.Instance.DeleteBillInforByFoofID(id);
+            string query = string.Format("DELETE  dbo.FOODCATERY where ID=" + id);
+            int result = DataProvider.Instance.ExcuteNonQuery(query);
+            return result > 0;
         }
     }
 }

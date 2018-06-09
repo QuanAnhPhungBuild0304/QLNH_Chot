@@ -5,6 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.SqlClient;
 
 namespace NHAHANG_RIENG.DAO
 {
@@ -26,13 +27,25 @@ namespace NHAHANG_RIENG.DAO
 
         }
 
+        //
+        public Food GetFoodbyName(string name)
+        {
+            Food f = null;
+            string query = String.Format("SELECT A.ID, A.NAME AS 'Name', B.NAME as 'catery', A.GIA AS 'Gia' FROM DBO.FOOD A, DBO.FOODCATERY B WHERE A.IDCATERY = B.ID AND A.NAME LIKE N'{0}'",name);
+            DataTable data = DataProvider.Instance.ExcuteQuery(query);
+            foreach (DataRow item in data.Rows)
+            {
+                f = new Food(item);
+                return f;
+            }
+            return f;
+        }
+
         public List<Food> GetFoodByCateryID(int id)
         {
             List<Food> list = new List<Food>();
-
-            string query = "EXEC USP_GETFOOD_CATERRY_BYID @IDCATERY =" + id ;
+            string query = "SHOWFOODBYCATERYID @idcatery=" + id ;
             DataTable data = DataProvider.Instance.ExcuteQuery(query);
-
             foreach (DataRow item in data.Rows)
             {
                 Food food = new Food(item);
@@ -44,10 +57,8 @@ namespace NHAHANG_RIENG.DAO
         public List<Food> GetListFood()
         {
             List<Food> list = new List<Food>();
-            string query = "EXEC USP_SHOWFOOD_CATERRY @IDFOOD =" +1;
-           
+            string query = "EXEC SHOWFOOD_CATERY @IDFOOD =" + 3;
             DataTable data = DataProvider.Instance.ExcuteQuery(query);
-
             foreach (DataRow item in data.Rows)
             {
                 Food food = new Food(item);
@@ -60,6 +71,16 @@ namespace NHAHANG_RIENG.DAO
         // Thêm món ăn
         public bool InsertFood(string name, int idcatery, float gia)
         {
+            //  string query = String.Format("EXEC INSERTFOOD @NAME , @IDCATERY , @GIA", new object[] { name, idcatery, gia });
+            /* string query = "EXEC INSERTFOOD @NAME , @IDCATERY , @GIA";
+             string strCon = @"Data Source=.\SQLEXPRESS;Initial Catalog=QUANLYNHAHANG;Integrated Security=True";
+             SqlConnection con = new SqlConnection(strCon); con.Open();
+             SqlCommand cmd = new SqlCommand(query, con);
+             cmd.Parameters.Add(new SqlParameter("@NAME", name));
+             cmd.Parameters.Add(new SqlParameter("@IDCATERY", idcatery));
+             cmd.Parameters.Add(new SqlParameter("@GIA", gia));
+             int kq= cmd.ExecuteNonQuery();*/
+
             string query = String.Format("INSERT DBO.FOOD(NAME, IDCATERY, GIA) VALUES(N'{0}', {1}, {2})", name, idcatery, gia);
             int kq = DataProvider.Instance.ExcuteNonQuery(query);
             return kq > 0;
@@ -87,8 +108,7 @@ namespace NHAHANG_RIENG.DAO
         public List<Food> SearchFoodByName(string name)
         {
             List<Food> list = new List<Food>();
-            string query = String.Format( "select * from FOOD where name = N'{0}'",name);
-
+            string query = String.Format("SELECT a.ID ,a.NAME as 'Name' , B.NAME as 'Catery', A.GIA as 'Gia' FROM DBO.FOOD a, DBO.FOODCATERY B  where a.IDCATERY=b.ID and dbo.fuConvertToUnsign1(a.NAME) like '%' + dbo.fuConvertToUnsign1( N'{0}') + '%'", name);
             DataTable data = DataProvider.Instance.ExcuteQuery(query);
 
             foreach (DataRow item in data.Rows)
@@ -97,7 +117,6 @@ namespace NHAHANG_RIENG.DAO
                 list.Add(food);
             }
             return list;
-
         }
 
 

@@ -77,106 +77,437 @@ F:\NGHICH_0505 - Copy\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj
 F:\NGHICH_0505 - Copy\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.CoreCompileInputs.cache
 F:\NGHICH_0505 - Copy\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.exe
 F:\NGHICH_0505 - Copy\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.pdb
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.exe.config
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.exe
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.pdb
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.Common.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.Design.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.SqlServer.Types.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\EnvDTE.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.Build.Framework.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\stdole.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\EnvDTE80.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.Build.Tasks.Core.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\VSLangProj.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\VSLangProj80.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Newtonsoft.Json.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\System.Threading.Tasks.Dataflow.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.MSXML.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.Build.Utilities.Core.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\VSLangProj2.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csprojResolveAssemblyReference.cache
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.exe.config
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.AccountInfo.resources
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.BanMon.resources
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.DoanhThu.resources
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.HoaDon.resources
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.Login.resources
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.MonAn.resources
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.Properties.Resources.resources
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.TrangchuAdmin.resources
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.TaiKhoan.resources
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.GenerateResource.cache
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.CoreCompileInputs.cache
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.CopyComplete
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.exe
-F:\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.pdb
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.exe.config
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.exe
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.pdb
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csprojResolveAssemblyReference.cache
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.AccountInfo.resources
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.BanMon.resources
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.DoanhThu.resources
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.Properties.Resources.resources
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.TrangchuAdmin.resources
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.GenerateResource.cache
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.CoreCompileInputs.cache
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.exe
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.pdb
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\EnvDTE.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\stdole.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.MSXML.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.CopyComplete
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.HoaDon.resources
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\MaterialSkin.dll
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.DangNhap.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.exe.config
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.exe
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.pdb
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\MaterialSkin.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\EnvDTE.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\stdole.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.MSXML.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csprojResolveAssemblyReference.cache
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.AccountInfo.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.BanMon.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.DangNhap.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.DoanhThu.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.HoaDon.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.Properties.Resources.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.TrangchuAdmin.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.GenerateResource.cache
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.CoreCompileInputs.cache
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.CopyComplete
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.exe
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.pdb
+F:\School\Kì 6\Thực tập CSDL\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.QuanLyHeThong.resources
+F:\School\Kì 6\QLNH_060518\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.QuanLyHeThong.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.exe.config
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.exe
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.pdb
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\MaterialSkin.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\EnvDTE.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\stdole.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.MSXML.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csprojResolveAssemblyReference.cache
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.AccountInfo.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.BanMon.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.DangNhap.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.DoanhThu.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.HoaDon.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.Properties.Resources.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.QuanLyHeThong.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.TrangchuAdmin.resources
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.GenerateResource.cache
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.CoreCompileInputs.cache
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.CopyComplete
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.exe
+F:\School\Kì 6\Thực tập CSDL\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.pdb
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.exe.config
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.exe
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.pdb
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\MaterialSkin.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\EnvDTE.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\stdole.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\EnvDTE80.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.Build.Tasks.Core.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\VSLangProj.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\VSLangProj80.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Newtonsoft.Json.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\System.Threading.Tasks.Dataflow.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.MSXML.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.Build.Utilities.Core.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.Build.Framework.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\VSLangProj2.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.exe.config
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.AccountInfo.resources
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.BanMon.resources
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.DangNhap.resources
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.DoanhThu.resources
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.HoaDon.resources
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.Properties.Resources.resources
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.QuanLyHeThong.resources
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.TrangchuAdmin.resources
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.GenerateResource.cache
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.CoreCompileInputs.cache
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.CopyComplete
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.exe
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.pdb
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csprojAssemblyReference.cache
+G:\QLNH_1105_GiaoDien\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.FormReportDOANHTHU.resources
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.exe.config
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.exe
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\NHAHANG_RIENG.pdb
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\MaterialSkin.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\EnvDTE.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\stdole.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\EnvDTE80.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\VSLangProj.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\VSLangProj80.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Newtonsoft.Json.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.MSXML.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.Build.Framework.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\VSLangProj2.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csprojAssemblyReference.cache
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.exe.config
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.AccountInfo.resources
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.BanMon.resources
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.DangNhap.resources
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.DoanhThu.resources
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.FormReportDOANHTHU.resources
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.HoaDon.resources
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.Properties.Resources.resources
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.QuanLyHeThong.resources
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.TrangchuAdmin.resources
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.GenerateResource.cache
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.CoreCompileInputs.cache
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.csproj.CopyComplete
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.exe
+D:\QLNH\QLNH_1105_PhungDeign\NHAHANG_RIENG\NHAHANG_RIENG\obj\Debug\NHAHANG_RIENG.pdb

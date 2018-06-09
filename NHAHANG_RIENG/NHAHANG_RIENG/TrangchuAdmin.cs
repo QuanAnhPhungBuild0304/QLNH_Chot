@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace NHAHANG_RIENG
 {
-    public partial class TrangchuAdmin : Form
+    public partial class TrangchuAdmin : MaterialSkin.Controls.MaterialForm
     {
 
         private Account loginAcc;
@@ -22,15 +22,44 @@ namespace NHAHANG_RIENG
         {
             InitializeComponent();
             this.LoginAcc = acc;
-            lbstatus.Text = loginAcc.FullName.ToString() + " !";
+            lbstatus.Text = loginAcc.FullName.ToString() ;
         }
 
         #region event
+
+        private void lbstatus_Click(object sender, EventArgs e)
+        {
+            AccountInfo accinfo = new AccountInfo(loginAcc);
+            accinfo.UpdateAccount += accinfo_UpdateAccount;
+            accinfo.ShowDialog();
+        }
+        void accinfo_UpdateAccount(object sender, AccountEvent e)
+        {
+
+            lbstatus.Text = e.Acc.FullName.ToString() + " !";
+        }
+
+
+
+        private void btDangXuat_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Nhấn YES để đăng xuất?", "Thông báo!", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                DangNhap dn = new DangNhap();
+                this.Hide();
+                dn.ShowDialog();
+            }
+        }
+
+        private void TrangchuAdmin_Load(object sender, EventArgs e)
+        {
+
+        }
         private void btqlban_Click(object sender, EventArgs e)
         {
             BanMon bm = new BanMon(loginAcc);
             this.Hide();
-            bm.ShowDialog();
+            bm.Show();
         }
 
         private void btDoanhthu_Click(object sender, EventArgs e)
@@ -42,48 +71,14 @@ namespace NHAHANG_RIENG
 
         private void btqlmon_Click(object sender, EventArgs e)
         {
-            MonAn ma = new MonAn(loginAcc);
+            QuanLyHeThong ma = new QuanLyHeThong(loginAcc);
             this.Hide();
             ma.ShowDialog();
         }
 
-        private void btuser_Click(object sender, EventArgs e)
-        {
-            TaiKhoan tk = new TaiKhoan(loginAcc);
-            this.Hide();
-            tk.ShowDialog();
-        }
 
-        private void ctlLogout_Click(object sender, EventArgs e)
-        {
-            Login lg = new Login();
-            this.Hide();
-            lg.ShowDialog();
-        }
-
-        private void TrangchuAdmin_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void thôngTinTàiKhoảnToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            AccountInfo acc = new AccountInfo(loginAcc);
-            this.Hide();
-            acc.ShowDialog();
-        }
         #endregion
 
-        private void lbstatus_Click(object sender, EventArgs e)
-        {
-            AccountInfo accinfo = new AccountInfo(loginAcc);
-            accinfo.UpdateAccount += accinfo_UpdateAccount;
-            accinfo.ShowDialog();
-        }
-        void accinfo_UpdateAccount(object sender, AccountEvent e)
-        {
-
-            lbstatus.Text = e.Acc.FullName.ToString() + " !" ;
-        }
+        
     }
 }

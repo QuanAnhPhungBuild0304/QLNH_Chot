@@ -42,6 +42,11 @@ namespace NHAHANG_RIENG.DAO
                 listBillInfo.Add(info);
             }
 
+           /* pubic bool CheckFoodByTableID (int idtable)
+            {
+                string query = String.Format("Select");
+            }*/
+
             return listBillInfo;
         }
 
@@ -49,7 +54,10 @@ namespace NHAHANG_RIENG.DAO
         {
             DataProvider.Instance.ExcuteNonQuery("exec USP_InsertBillInfo @IDBILL , @IDFOOD , @COUNT", new object[] { idBill , idFood , count });
         }
-
+        public void DeleteBillInforByFoofID(int id)
+        {
+            DataProvider.Instance.ExcuteNonQuery("delete dbo.BILLINFO where IDFOOD=" + id);
+        }
 
     }
 }

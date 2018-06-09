@@ -5,7 +5,6 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,7 +12,7 @@ using System.Windows.Forms;
 
 namespace NHAHANG_RIENG
 {
-    public partial class DoanhThu : Form
+    public partial class DoanhThu : MaterialSkin.Controls.MaterialForm
     {
         private Account loginAcc;
 
@@ -23,17 +22,16 @@ namespace NHAHANG_RIENG
         {
             InitializeComponent();
             this.loginAcc = acc;
-            //LoadDatetimePicker();
-            //LoadListBillByDate(dtp_in.Value, dtp_out.Value);
-            
+            lbstatus.Text = loginAcc.FullName.ToString();
             LoadListBillByDate(dtp_in.Value, dtp_out.Value);
+    
         }
 
         #region methors
 
         void LoadListBillByDate(DateTime checkin, DateTime checkout)
         {
-           // LoadDatetimePicker();
+            // LoadDatetimePicker();
             dgvThongke.DataSource = BillDAO.Instance.GetListBillByDate(checkin, checkout);
             btnDau.Text = "1";
             int tonghoadon = BillDAO.Instance.GetNumberBillByDate(checkin, checkout);
@@ -55,19 +53,35 @@ namespace NHAHANG_RIENG
             btnCuoi.Text = trangcuoi.ToString();
         }
 
-        // Load 
+        // Load thời gian 1 tháng
         void LoadDatetimePicker()
         {
             DateTime today = DateTime.Now;
             dtp_in.Value = new DateTime(today.Year, today.Month, 01);
-            today.AddHours(00);
             dtp_out.Value = dtp_in.Value.AddMonths(1).AddDays(-1);
         }
 
+        // hàm show tổng tiền
+        void Load_txbTongthu()
+        {
+            try
+            {
+                LoadListBillByDate(dtp_in.Value, dtp_out.Value);
+                float thanhtien = 0;
+                for (int i = 1; i <= (dgvThongke.Rows.Count - 1); i++)
+                {
+                    thanhtien = thanhtien + float.Parse(dgvThongke.Rows[i].Cells[4].Value.ToString());
+                }
+               // txbTongthu.Text = thanhtien.ToString();
+            }
+            catch { }
+          
+        }
         #endregion
 
 
         #region events
+
         private void btQuaylai_Click(object sender, EventArgs e)
         {
             TrangchuAdmin tc = new TrangchuAdmin(loginAcc);
@@ -77,10 +91,9 @@ namespace NHAHANG_RIENG
 
         private void DoanhThu_Load(object sender, EventArgs e)
         {
+
             LoadDatetimePicker();
             LoadListBillByDate(dtp_in.Value, dtp_out.Value);
-
-            
         }
 
         private void btThongke_Click(object sender, EventArgs e)
@@ -88,30 +101,19 @@ namespace NHAHANG_RIENG
             LoadListBillByDate(dtp_in.Value, dtp_out.Value);
         }
 
-
-        private void btnDau_Click(object sender, EventArgs e)
-        {
-
-            txbTrangHientai.Text = "1";
-        }
-
-        private void btCuoi_Click(object sender, EventArgs e)
-        {
-            int tonghoadon = BillDAO.Instance.GetNumberBillByDate(dtp_in.Value, dtp_out.Value);
-            // 1 trang có 5 dòng
-            int trangcuoi = tonghoadon / 5;
-            if (tonghoadon % 5 != 0)
-                trangcuoi++;
-            txbTrangHientai.Text = trangcuoi.ToString();
-        }
-
         private void txbTrangHientai_TextChanged(object sender, EventArgs e)
         {
             dgvThongke.DataSource = BillDAO.Instance.GetListBillByDate_inPage(dtp_in.Value, dtp_out.Value, Convert.ToInt32(txbTrangHientai.Text));
         }
 
+        private void btnDau_Click(object sender, EventArgs e)
+        {
+            txbTrangHientai.Text = "1";
+        }
+
         private void btnTruoc_Click(object sender, EventArgs e)
         {
+
             int page = Convert.ToInt32(txbTrangHientai.Text);
             if (page > 1)
                 page--;
@@ -128,15 +130,41 @@ namespace NHAHANG_RIENG
             txbTrangHientai.Text = page.ToString();
         }
 
-        private void txbLuotkhach_TextChanged(object sender, EventArgs e)
+        private void btnCuoi_Click(object sender, EventArgs e)
         {
+            int tonghoadon = BillDAO.Instance.GetNumberBillByDate(dtp_in.Value, dtp_out.Value);
+            // 1 trang có 5 dòng
+            int trangcuoi = tonghoadon / 5;
+            if (tonghoadon % 5 != 0)
+                trangcuoi++;
+            txbTrangHientai.Text = trangcuoi.ToString();
+        }
+
+        private void btDangXuat_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Chọn YES để đăng xuất?", "Thông báo!", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                DangNhap dn = new DangNhap();
+                dn.Show();
+                this.Hide();
+            }
+        }
+
+        private void lbstatus_Click(object sender, EventArgs e)
+        {
+            //AccountInfo acc = new AccountInfo(loginAcc);
+            //acc.ShowDialog();
+        }
+
+
+        private void btInReport_Click(object sender, EventArgs e)
+        {
+            FormReportDOANHTHU rp = new FormReportDOANHTHU();
+            rp.ShowDialog();
         }
 
         #endregion
 
-        private void txbTongthu_TextChanged(object sender, EventArgs e)
-        {
 
-        }
     }
 }
